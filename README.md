@@ -1,4 +1,3 @@
-# IMDB-Movies-SQL-Analysis
 # 🎬 IMDB Movies SQL Analysis Project
 
 ## 📌 Project Objective
